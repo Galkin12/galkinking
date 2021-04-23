@@ -40,4 +40,4 @@ async def ban(ctx, member : discord.Member, *, reason=None):
 
 
 # Token
-client.run('ODM1MTc1MTQzMjg2Mzc0NDEw.YILndg.Jj4Sh2p5IyMO3vqq9yeTrJhcy5M')
+client.run('BOT_TOKEN')
